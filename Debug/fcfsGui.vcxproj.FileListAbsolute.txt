@@ -1,0 +1,8 @@
+C:\Users\Muhammad Talha\source\repos\fcfsGui\Debug\fcfsGui.vcxproj.AssemblyReference.cache
+C:\Users\Muhammad Talha\source\repos\fcfsGui\Debug\fcfsGui.exe
+C:\Users\Muhammad Talha\source\repos\fcfsGui\Debug\fcfsGui.MyForm.resources
+C:\Users\Muhammad Talha\source\repos\fcfsGui\Debug\fcfsGui.vcxproj.GenerateResource.cache
+C:\Users\Muhammad Talha\source\repos\fcfsGui - Copy\Debug\fcfsGui.vcxproj.AssemblyReference.cache
+C:\Users\Muhammad Talha\source\repos\fcfsGui - Copy\Debug\fcfsGui.MyForm.resources
+C:\Users\Muhammad Talha\source\repos\fcfsGui - Copy\Debug\fcfsGui.vcxproj.GenerateResource.cache
+C:\Users\Muhammad Talha\source\repos\fcfsGui - Copy\Debug\fcfsGui.exe
